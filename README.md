@@ -2,6 +2,7 @@
 The dataset contains 120 hospital visits, with details on patients, departments, visit types, acuity, and costs. Using Power BI, the data was cleaned and analyzed to uncover trends in demographics, emergencies, departmental performance, and financial outcomes for better hospital planning.
 
 <img width="860" height="484" alt="Screenshot 2025-09-02 153030" src="https://github.com/user-attachments/assets/9a256ac7-08c8-4660-9c60-62725125ad25" />
+
 ## Executive Summary
 
  The hospital’s purpose is to deliver high-quality, accessible, and patient-centered care while ensuring sustainable operations. An analysis of one hundred and twenty patient visits revealed important patterns in demographics, visit types, severity, and costs. Dermatology recorded the highest number of visits, while Neurology generated the highest revenue per visit. Although emergency visits were fewer, they carried significantly higher costs. Male and female patients were almost evenly represented, while age distribution showed that seniors and children accounted for the largest share of visits. Monthly trends showed fluctuations, with peaks in March and September, highlighting the importance of aligning resources with demand.
